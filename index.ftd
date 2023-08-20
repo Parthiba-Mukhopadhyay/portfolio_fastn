@@ -35,20 +35,6 @@ cta-item2-link: /portfolio_fastn/Parthiba_CV.pdf
 ;; ***** PORTFOLIO Header ends *****
 ;; ----------------------------------------------------------------
 
-
-;; -----------------------------------------------------
-;; ***** PORTFOLIO Toast starts *****
-;; -----------------------------------------------------
-
--- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/Parthiba-Mukhopadhyay
-
-;; -----------------------------------------------------
-;; ***** PORTFOLIO Toast ends *****
-;; -----------------------------------------------------
-
-
 ;; ------------------------------------------
 ;; ***** PORTFOLIO Hero UI starts *****
 ;; ------------------------------------------
